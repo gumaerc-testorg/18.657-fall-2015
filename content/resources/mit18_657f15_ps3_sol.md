@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44a4b359-3cca-4b43-9cc9-f098b4748d28
 resourcetype: Document
 title: Mathematics of Machine Learning Assignment 3 Solution
 uid: 285d7726-dad0-e91c-f447-da611b84e6d6

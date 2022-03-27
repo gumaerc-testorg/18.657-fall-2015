@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1d4774b0-7311-db91-f740-b48ce1b6870b
 resourcetype: Document
 title: Mathematics of Machine Learning Lecture Notes
 uid: 81406c87-dccb-9e87-3cfa-fa876a4d69c3
