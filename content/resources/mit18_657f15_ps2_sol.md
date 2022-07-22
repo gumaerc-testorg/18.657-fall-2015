@@ -6,6 +6,7 @@ file: /courses/18-657-mathematics-of-machine-learning-fall-2015/091a852cd0d398a3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mathematics of Machine Learning Assignment 2 Solution
 uid: 091a852c-d0d3-98a3-ca4a-41446ab2d30f
 ---
 This resource contains information regarding Mathematics of machine learning assignment 2 solution.
-
