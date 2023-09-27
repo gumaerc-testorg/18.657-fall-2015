@@ -56,8 +56,10 @@
     "website": "18-657-mathematics-of-machine-learning-fall-2015"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets with Solutions"
   ],
-  "site_uid": "11b5d54e-bb2c-4df4-97b0-0df34735bb67",
+  "site_uid": "17145049-64c1-43ad-a864-ed4903a78635",
+  "site_short_id": "18.657-fall-2015",
   "title": "Course Metadata"
 }
