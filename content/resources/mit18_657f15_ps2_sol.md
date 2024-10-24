@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Mathematics of machine learning
   assignment 2 solution.
-file: /courses/18-657-mathematics-of-machine-learning-fall-2015/091a852cd0d398a3ca4a41446ab2d30f_MIT18_657F15_PS2_Sol.pdf
+file: /ol-ocw-studio-app/courses/18-657-mathematics-of-machine-learning-fall-2015/091a852cd0d398a3ca4a41446ab2d30f_MIT18_657F15_PS2_Sol.pdf
 file_size: 264513
 file_type: application/pdf
 learning_resource_types:
