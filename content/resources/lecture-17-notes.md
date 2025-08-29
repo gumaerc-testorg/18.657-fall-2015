@@ -2,9 +2,14 @@
 content_type: resource
 description: This resource contains information regarding Mathematics of machine learning
   lecture 17 notes.
-file: /courses/18-657-mathematics-of-machine-learning-fall-2015/20907a506d03148f37ce90f1af2659b1_MIT18_657F15_L17.pdf
+draft: false
+file: /ol-ocw-studio-app/courses/18-657-mathematics-of-machine-learning-fall-2015/20907a506d03148f37ce90f1af2659b1_MIT18_657F15_L17.pdf
 file_size: 700030
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -13,7 +18,18 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: 1d4774b0-7311-db91-f740-b48ce1b6870b
 resourcetype: Document
-title: Mathematics of Machine Learning Lecture 17 Notes
+title: Lecture 17 Notes
 uid: 20907a50-6d03-148f-37ce-90f1af2659b1
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  source: ''
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource contains information regarding Mathematics of machine learning lecture 17 notes.
